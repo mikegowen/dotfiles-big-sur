@@ -1,0 +1,15 @@
+[core]
+  quotepath = false
+  excludesfile = /Users/mike/.gitignore_global
+  editor = code -w
+[color "status"]
+  added = green
+  changed = yellow
+  untracked = red
+[user]
+	name = Mike Gowen
+	email = mike@mikegowen.com
+[alias]
+	co = checkout
+  st = status
+  undo = reset --soft HEAD^
