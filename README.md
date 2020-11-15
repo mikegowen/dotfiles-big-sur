@@ -7,9 +7,10 @@ My configuration files for MacOS Big Sur.
 
 1. Run the following command: `./makesymlinks.sh`
 2. Copy `settings.json` in `VSCode` to `~/Library/Application Support/Code/User/`.
-3. Download and install the VSCode theme Material Theme.
-4. Switch to the Palenight High Contrast theme.
-5. Download and install [IBM Plex](https://fonts.google.com/featured/Plex).
+3. Download and install the VSCode theme Material Theme
+4. Switch to the Palenight High Contrast theme
+5. Download and install Material Theme Icons
+6. Download and install SF Mono font
 
 ## License
 
