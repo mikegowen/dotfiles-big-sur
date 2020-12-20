@@ -22,5 +22,5 @@
   "[csharp]": {
     "editor.tabSize": 4
   },
-  "editor.codeLens": false,
+  "editor.codeLens": false
 }
